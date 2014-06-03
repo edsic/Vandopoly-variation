@@ -1,0 +1,2 @@
+blue R0 G120 B255
+red R240 G15 B15
