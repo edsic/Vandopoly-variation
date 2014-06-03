@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/313/trunk/Vandopoly/src/org/vandopoly/ui
+END
+PieceLeft.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/177/trunk/Vandopoly/src/org/vandopoly/ui/PieceLeft.java
+END
+TradeProposalPopUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/385/trunk/Vandopoly/src/org/vandopoly/ui/TradeProposalPopUp.java
+END
+DisplayAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/236/trunk/Vandopoly/src/org/vandopoly/ui/DisplayAssembler.java
+END
+JailPopUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/335/trunk/Vandopoly/src/org/vandopoly/ui/JailPopUp.java
+END
+Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/350/trunk/Vandopoly/src/org/vandopoly/ui/Display.java
+END
+WaitingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/388/trunk/Vandopoly/src/org/vandopoly/ui/WaitingMessage.java
+END
+MessagePopUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/335/trunk/Vandopoly/src/org/vandopoly/ui/MessagePopUp.java
+END
+MainMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/351/trunk/Vandopoly/src/org/vandopoly/ui/MainMenu.java
+END
+PropertySelectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/368/trunk/Vandopoly/src/org/vandopoly/ui/PropertySelectionPanel.java
+END
+TradeFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/389/trunk/Vandopoly/src/org/vandopoly/ui/TradeFrame.java
+END
+SpacePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/339/trunk/Vandopoly/src/org/vandopoly/ui/SpacePanel.java
+END
+PlayerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/370/trunk/Vandopoly/src/org/vandopoly/ui/PlayerPanel.java
+END
+PieceDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/177/trunk/Vandopoly/src/org/vandopoly/ui/PieceDown.java
+END
+ActionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/277/trunk/Vandopoly/src/org/vandopoly/ui/ActionMessage.java
+END
+PieceRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/177/trunk/Vandopoly/src/org/vandopoly/ui/PieceRight.java
+END
+DicePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/387/trunk/Vandopoly/src/org/vandopoly/ui/DicePanel.java
+END
+GameOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/323/trunk/Vandopoly/src/org/vandopoly/ui/GameOptions.java
+END
+GameButtonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/341/trunk/Vandopoly/src/org/vandopoly/ui/GameButtonPanel.java
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/354/trunk/Vandopoly/src/org/vandopoly/ui/Piece.java
+END
+PieceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/175/trunk/Vandopoly/src/org/vandopoly/ui/PieceState.java
+END
+PieceUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/177/trunk/Vandopoly/src/org/vandopoly/ui/PieceUp.java
+END
+PropertySelectionSellPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/376/trunk/Vandopoly/src/org/vandopoly/ui/PropertySelectionSellPanel.java
+END
+NetworkedGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/348/trunk/Vandopoly/src/org/vandopoly/ui/NetworkedGame.java
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/233/trunk/Vandopoly/src/org/vandopoly/model
+END
+PropertySpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/346/trunk/Vandopoly/src/org/vandopoly/model/PropertySpace.java
+END
+CommCardSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/350/trunk/Vandopoly/src/org/vandopoly/model/CommCardSpace.java
+END
+CardTypePayFund.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/330/trunk/Vandopoly/src/org/vandopoly/model/CardTypePayFund.java
+END
+Dice.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/323/trunk/Vandopoly/src/org/vandopoly/model/Dice.java
+END
+CornerSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/330/trunk/Vandopoly/src/org/vandopoly/model/CornerSpace.java
+END
+PropertyOwns3.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/PropertyOwns3.java
+END
+UtilitySpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/338/trunk/Vandopoly/src/org/vandopoly/model/UtilitySpace.java
+END
+PropertyOwned.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/377/trunk/Vandopoly/src/org/vandopoly/model/PropertyOwned.java
+END
+UpgradeablePropertyState.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/UpgradeablePropertyState.java
+END
+SpaceMortgaged.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/SpaceMortgaged.java
+END
+CardTypePayPlayers.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/330/trunk/Vandopoly/src/org/vandopoly/model/CardTypePayPlayers.java
+END
+PropertyState.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/PropertyState.java
+END
+ChanceCardSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/350/trunk/Vandopoly/src/org/vandopoly/model/ChanceCardSpace.java
+END
+UpgradeablePropertyLevel1.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/377/trunk/Vandopoly/src/org/vandopoly/model/UpgradeablePropertyLevel1.java
+END
+UtilityOwns1.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/UtilityOwns1.java
+END
+UpgradeablePropertyLevel3.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/377/trunk/Vandopoly/src/org/vandopoly/model/UpgradeablePropertyLevel3.java
+END
+Space.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/346/trunk/Vandopoly/src/org/vandopoly/model/Space.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/380/trunk/Vandopoly/src/org/vandopoly/model/Player.java
+END
+UpgradeablePropertyLevel5.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/377/trunk/Vandopoly/src/org/vandopoly/model/UpgradeablePropertyLevel5.java
+END
+PlayerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/PlayerState.java
+END
+CardTypeWinMoney.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/330/trunk/Vandopoly/src/org/vandopoly/model/CardTypeWinMoney.java
+END
+CardTypeMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/330/trunk/Vandopoly/src/org/vandopoly/model/CardTypeMove.java
+END
+UtilityState.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/330/trunk/Vandopoly/src/org/vandopoly/model/UtilityState.java
+END
+TaxSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/378/trunk/Vandopoly/src/org/vandopoly/model/TaxSpace.java
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/330/trunk/Vandopoly/src/org/vandopoly/model/Card.java
+END
+PropertyOwns2.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/PropertyOwns2.java
+END
+PropertyOwns4.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/PropertyOwns4.java
+END
+PlayerInJail.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/350/trunk/Vandopoly/src/org/vandopoly/model/PlayerInJail.java
+END
+CardTypeOutOfJail.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/338/trunk/Vandopoly/src/org/vandopoly/model/CardTypeOutOfJail.java
+END
+UpgradeablePropertyLevel2.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/377/trunk/Vandopoly/src/org/vandopoly/model/UpgradeablePropertyLevel2.java
+END
+SpaceUnowned.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/SpaceUnowned.java
+END
+UpgradeablePropertySpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/352/trunk/Vandopoly/src/org/vandopoly/model/UpgradeablePropertySpace.java
+END
+UpgradeablePropertyLevel4.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/377/trunk/Vandopoly/src/org/vandopoly/model/UpgradeablePropertyLevel4.java
+END
+SpaceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/339/trunk/Vandopoly/src/org/vandopoly/model/SpaceState.java
+END
+UtilityOwns2.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/UtilityOwns2.java
+END
+PlayerFree.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/347/trunk/Vandopoly/src/org/vandopoly/model/PlayerFree.java
+END
